@@ -66,6 +66,10 @@
           <v-radio label="B" value="B"></v-radio>
           <v-radio label="C" value="C"></v-radio>
           <v-radio label="D" value="D"></v-radio>
+          <v-radio label="E" value="E"></v-radio>
+          <v-radio label="F" value="F"></v-radio>
+          <v-radio label="G" value="G"></v-radio>
+          <v-radio label="H" value="H"></v-radio>
           <v-radio label="None" value=" "></v-radio>
         </v-radio-group>
         <v-select v-model="selectedPreset.variant" clearable dense :disabled="presets.length == 0" :items="['adjusted', 'special']" placeholder="Special/Adjusted" prepend-icon="flag"></v-select>
