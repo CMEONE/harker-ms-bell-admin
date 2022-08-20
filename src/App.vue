@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-app-bar app color="primary" dark>
-      <v-toolbar-title class="title d-none d-md-flex"><span class="font-weight-bold mr-2">Harker Bell</span> <span class="font-weight-regular">Admin Console</span></v-toolbar-title>
+      <v-toolbar-title class="title d-none d-md-flex"><span class="font-weight-bold mr-2">Harker MS Bell</span> <span class="font-weight-regular">Admin Console</span></v-toolbar-title>
       <v-spacer></v-spacer>
       <v-toolbar-items>
         <v-row align="center">
