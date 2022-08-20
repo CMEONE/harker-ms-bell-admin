@@ -1,4 +1,4 @@
-# harker-bell-admin
+# harker-ms-bell-admin
 
 ## Project setup
 ```
