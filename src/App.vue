@@ -49,7 +49,7 @@ export default {
   },
   computed: {
     baseUrl() {
-      return this.productionMode ? "https://bell.dev.harker.org" : "http://localhost:5000";
+      return this.productionMode ? "https://msbell-backend.harker.xyz" : "http://localhost:5000";
     }
   },
   methods: {

@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    You found a secret page...! Come work with us at <a href="https://dev.harker.org/join/" target="_blank">dev.harker.org/join</a>.
+    You found a secret page!
   </v-container>
 </template>
 
