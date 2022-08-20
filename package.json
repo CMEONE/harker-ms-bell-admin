@@ -2,6 +2,7 @@
   "name": "harker-ms-bell-admin",
   "version": "1.0.0",
   "private": true,
+  "author": "Kabir Ramzan",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -53,5 +54,14 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/CMEONE/harker-ms-bell-admin/issues"
+  },
+  "homepage": "https://github.com/CMEONE/harker-ms-bell-admin#readme",
+  "license": "AGPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMEONE/harker-ms-bell-admin"
+  }
 }
